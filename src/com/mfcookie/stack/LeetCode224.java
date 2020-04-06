@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class LeetCode224 {
     public static void main(String[] args) {
-        String s = "(1+(4+5+2)-3)+(6+8)";
+        String s = " (1+(4+5+2)-3) + (6+8)";
         Solution224 solution224 = new Solution224();
         int calculate = solution224.calculate(s);
         System.out.println("calculate = " + calculate);
@@ -42,22 +42,15 @@ class Solution224 {
         int res = 0;
         // 运算符
         Character opr = null;
-        // 被操作的数
+        // 被操作的数, 当前数字的计算结果
         int op = 0;
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == '+' || c == '-') {
-                if (opr == null) {
-                    res = op;
-                } else {
-                    res = cal(opr, res, op);
-                }
-                if (stack.isEmpty()) {
-                    opr = c;
-                } else {
-                    opr = swap(stack.peek(), c);
-                }
+                res = cal(opr, res, op);
+                // 当且仅当 stack不为空且栈顶元素为true时 需要反转符号
+                opr = swap(!stack.isEmpty() && stack.peek(), c);
                 op = 0;
             } else if (c == '(') {
                 stack.push(opr != null && opr == '-');
@@ -67,10 +60,7 @@ class Solution224 {
                 op = op * 10 + (c - '0');
             }
         }
-        if (opr != null) {
-            return cal(opr, res, op);
-        }
-        return res;
+        return cal(opr, res, op);
     }
 
     private Character swap(Boolean peek, char c) {
@@ -82,6 +72,9 @@ class Solution224 {
     }
 
     private int cal(Character opr, int res, int op) {
+        if (opr == null) {
+            return op;
+        }
         switch (opr) {
             case '-':
                 return res - op;
