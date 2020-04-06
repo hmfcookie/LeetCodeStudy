@@ -14,7 +14,7 @@ public class LeetCode224 {
 /**
  * 实现一个基本的计算器来计算一个简单的字符串表达式的值。
  * <p>
- * 字符串表达式可以包含左括号 ( ，右括号 )，加号 + ，减号 -，非负整数和空格  。
+ * 字符串表达式可以包含左括号 ( ，右括号 )，加号 + ，减号 -，非负整数和空格' '。
  * <p>
  * 示例 1:
  * 输入: "1 + 1"
@@ -27,12 +27,12 @@ public class LeetCode224 {
  * 示例 3:
  * 输入: "(1+(4+5+2)-3)+(6+8)"
  * 输出: 23
- * <p>
- * 说明：
- * 你可以假设所给定的表达式都是有效的。
- * 请不要使用内置的库函数 eval。
- * <p>
- * 来源：力扣（LeetCode）
+ * <p></p>
+ * 说明：<p>
+ * 你可以假设所给定的表达式都是有效的。<p>
+ * 请不要使用内置的库函数 eval。<p>
+ * <p><p>
+ * 来源：力扣（LeetCode）<p>
  * 链接：https://leetcode-cn.com/problems/basic-calculator
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
@@ -63,20 +63,20 @@ class Solution224 {
                 stack.push(opr != null && opr == '-');
             } else if (c == ')') {
                 stack.pop();
-            } else if (Character.isDigit(c)){
+            } else if (Character.isDigit(c)) {
                 op = op * 10 + (c - '0');
             }
         }
-        if (opr != null){
+        if (opr != null) {
             return cal(opr, res, op);
         }
         return res;
     }
 
     private Character swap(Boolean peek, char c) {
-        if (peek){
-            return c == '+'? '-' : '+';
-        }else {
+        if (peek) {
+            return c == '+' ? '-' : '+';
+        } else {
             return c;
         }
     }
