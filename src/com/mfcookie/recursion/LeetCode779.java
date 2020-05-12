@@ -1,4 +1,4 @@
-package com.mfcookie.def;
+package com.mfcookie.recursion;
 
 public class LeetCode779 {
     public static void main(String[] args) {
