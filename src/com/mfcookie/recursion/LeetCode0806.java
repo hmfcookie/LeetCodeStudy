@@ -18,10 +18,6 @@ public class LeetCode0806 {
         A.add(2);
         A.add(1);
         A.add(0);
-        Integer remove1 = A.remove(1);
-
-        List<Integer> integers = Arrays.asList(4, 1);
-        Integer remove2 = integers.remove(1);
 
         List<Integer> B = new ArrayList<>();
         List<Integer> C = new ArrayList<>();
