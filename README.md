@@ -24,5 +24,7 @@
 
 [110. 平衡二叉树](./src/com/mfcookie/leetcode/editor/cn/BalancedBinaryTree.java)
 
+[111. 二叉树的最小深度](./src/com/mfcookie/leetcode/editor/cn/MinimumDepthOfBinaryTree.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
