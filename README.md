@@ -26,5 +26,9 @@
 
 [111. 二叉树的最小深度](./src/com/mfcookie/leetcode/editor/cn/MinimumDepthOfBinaryTree.java)
 
+[118. 杨辉三角](./src/com/mfcookie/leetcode/editor/cn/PascalsTriangle.java)
+
+[119. 杨辉三角 II](./src/com/mfcookie/leetcode/editor/cn/PascalsTriangleIi.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
