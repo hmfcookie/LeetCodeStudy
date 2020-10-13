@@ -40,9 +40,9 @@ import java.util.Arrays;
 public class MergeSortedArray {
     public static void main(String[] args) {
         Solution solution = new MergeSortedArray().new Solution();
-        int[] nums1 = {1,2,4,5,6,0};
-        int[] nums2 = {3};
-        solution.merge(nums1, 5, nums2, 1);
+        int[] nums1 = {4, 5, 6, 0, 0, 0};
+        int[] nums2 = {1, 2, 3};
+        solution.merge(nums1, 3, nums2, 3);
         System.out.println("nums1 = " + Arrays.toString(nums1));
     }
 
@@ -60,7 +60,7 @@ public class MergeSortedArray {
                 if (nums1[i] <= nums2[j]) {
                     i++;
                 } else {
-                    System.arraycopy(nums1, i, nums1, i + 1, m- );
+                    System.arraycopy(nums1, i, nums1, i + 1, m - (i - j));
                     nums1[i] = nums2[j];
                     j++;
                 }
