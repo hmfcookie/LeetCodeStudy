@@ -1,3 +1,6 @@
 /.idea
 /out
 *.iml
+/src/com/mfcookie/leetcode/editor/cn/doc/
+/src/com/mfcookie/leetcode/editor/cn/all.json
+/src/com/mfcookie/leetcode/editor/cn/translation.json

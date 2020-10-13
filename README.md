@@ -10,6 +10,8 @@
 
 [69. x的平方根](./src/com/mfcookie/leetcode/editor/cn/Sqrtx.java)
 
+[70. 爬楼梯](./src/com/mfcookie/leetcode/editor/cn/ClimbingStairs.java)
+
 [88. 合并两个有序数组](./src/com/mfcookie/leetcode/editor/cn/MergeSortedArray.java)
 
 [100. 相同的树](./src/com/mfcookie/tree/LeetCode100.java)
