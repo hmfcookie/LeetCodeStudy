@@ -22,5 +22,7 @@
 
 [108. 将有序数组转换为二叉搜索树](./src/com/mfcookie/leetcode/editor/cn/ConvertSortedArrayToBinarySearchTree.java)
 
+[110. 平衡二叉树](./src/com/mfcookie/leetcode/editor/cn/BalancedBinaryTree.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
