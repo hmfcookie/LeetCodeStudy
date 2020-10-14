@@ -34,5 +34,7 @@
 
 [125. 验证回文串](./src/com/mfcookie/leetcode/editor/cn/ValidPalindrome.java)
 
+[136. 只出现一次的数字](./src/com/mfcookie/leetcode/editor/cn/SingleNumber.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
