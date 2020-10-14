@@ -32,5 +32,7 @@
 
 [121. 买卖股票的最佳时机](./src/com/mfcookie/leetcode/editor/cn/BestTimeToBuyAndSellStock.java)
 
+[125. 验证回文串](./src/com/mfcookie/leetcode/editor/cn/ValidPalindrome.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
