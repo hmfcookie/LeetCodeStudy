@@ -36,5 +36,7 @@
 
 [136. 只出现一次的数字](./src/com/mfcookie/leetcode/editor/cn/SingleNumber.java)
 
+[167. 两数之和 II - 输入有序数组](./src/com/mfcookie/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
