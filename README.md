@@ -46,5 +46,7 @@
 
 [172. 阶乘后的零](./src/com/mfcookie/leetcode/editor/cn/FactorialTrailingZeroes.java)
 
+[198. 打家劫舍](./src/com/mfcookie/leetcode/editor/cn/HouseRobber.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
