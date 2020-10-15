@@ -40,5 +40,7 @@
 
 [168. Excel表列名称](./src/com/mfcookie/leetcode/editor/cn/ExcelSheetColumnTitle.java)
 
+[171. Excel表列序号](./src/com/mfcookie/leetcode/editor/cn/ExcelSheetColumnNumber.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
