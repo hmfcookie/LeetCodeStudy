@@ -48,5 +48,7 @@
 
 [198. 打家劫舍](./src/com/mfcookie/leetcode/editor/cn/HouseRobber.java)
 
+[202. 快乐数](./src/com/mfcookie/leetcode/editor/cn/HappyNumber.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
