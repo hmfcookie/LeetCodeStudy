@@ -58,5 +58,7 @@
 
 [206. 反转链表](./src/com/mfcookie/leetcode/editor/cn/ReverseLinkedList.java)
 
+[217. 存在重复元素](./src/com/mfcookie/leetcode/editor/cn/ContainsDuplicate.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
