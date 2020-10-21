@@ -54,5 +54,7 @@
 
 [204. 计数质数](./src/com/mfcookie/leetcode/editor/cn/CountPrimes.java)
 
+[205. 同构字符串](./src/com/mfcookie/leetcode/editor/cn/IsomorphicStrings.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
