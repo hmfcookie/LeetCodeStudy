@@ -62,5 +62,7 @@
 
 [219. 存在重复元素 II](./src/com/mfcookie/leetcode/editor/cn/ContainsDuplicateIi.java)
 
+[226. 翻转二叉树](./src/com/mfcookie/leetcode/editor/cn/InvertBinaryTree.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
