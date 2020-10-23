@@ -64,5 +64,7 @@
 
 [226. 翻转二叉树](./src/com/mfcookie/leetcode/editor/cn/InvertBinaryTree.java)
 
+[231. 2的幂](./src/com/mfcookie/leetcode/editor/cn/PowerOfTwo.java)
+
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
 
