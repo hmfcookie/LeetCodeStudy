@@ -66,6 +66,8 @@
 
 [231. 2的幂](./src/com/mfcookie/leetcode/editor/cn/PowerOfTwo.java)
 
+[232. 用栈实现队列](./src/com/mfcookie/leetcode/editor/cn/ImplementQueueUsingStacks.java)
+
 [234. 回文链表](./src/com/mfcookie/leetcode/editor/cn/PalindromeLinkedList.java)
 
 [面试题 16.11跳水板](./src/com/mfcookie/leetcode/editor/cn/DivingBoardLcci.java)
