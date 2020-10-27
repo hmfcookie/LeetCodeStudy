@@ -2,6 +2,8 @@
 
 记录`leetcode`的刷题
 
+[1.两数之和](./src/com/mfcookie/leetcode/editor/cn/TwoSum.java)
+
 [26. 删除数组中的重复项](./src/com/mfcookie/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java)
 
 [66. 加一](./src/com/mfcookie/leetcode/editor/cn/PlusOne.java)
