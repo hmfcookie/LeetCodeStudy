@@ -36,6 +36,8 @@
 
 [125. 验证回文串](./src/com/mfcookie/leetcode/editor/cn/ValidPalindrome.java)
 
+[129. 求根到叶子节点数字之和](./src/com/mfcookie/leetcode/editor/cn/SumRootToLeafNumbers.java)
+
 [136. 只出现一次的数字](./src/com/mfcookie/leetcode/editor/cn/SingleNumber.java)
 
 [144. 二叉树的前序遍历](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
