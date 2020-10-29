@@ -84,6 +84,8 @@
 
 [263. 丑数](./src/com/mfcookie/leetcode/editor/cn/UglyNumber.java)
 
+[268. 丢失的数字](./src/com/mfcookie/leetcode/editor/cn/MissingNumber.java)
+
 [1207. 独一无二的出现次数](./src/com/mfcookie/leetcode/editor/cn/UniqueNumberOfOccurrences.java)
 
 [1365. 有多少小于当前数字的数字](./src/com/mfcookie/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
