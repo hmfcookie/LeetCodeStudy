@@ -36,6 +36,8 @@
 
 [125. 验证回文串](./src/com/mfcookie/leetcode/editor/cn/ValidPalindrome.java)
 
+[129. 求根到叶子节点数字之和](./src/com/mfcookie/leetcode/editor/cn/SumRootToLeafNumbers.java)
+
 [136. 只出现一次的数字](./src/com/mfcookie/leetcode/editor/cn/SingleNumber.java)
 
 [144. 二叉树的前序遍历](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
@@ -78,9 +80,19 @@
 
 [237. 删除链表中的节点](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
 
+[257. 二叉树的所有路径](./src/com/mfcookie/leetcode/editor/cn/BinaryTreePaths.java)
+
+[258. 各位相加](./src/com/mfcookie/leetcode/editor/cn/AddDigits.java)
+
+[263. 丑数](./src/com/mfcookie/leetcode/editor/cn/UglyNumber.java)
+
+[268. 丢失的数字](./src/com/mfcookie/leetcode/editor/cn/MissingNumber.java)
+
 [349. 两个数组的交集](./src/com/mfcookie/leetcode/editor/cn/IntersectionOfTwoArrays.java)
 
 [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](./src/com/mfcookie/leetcode/editor/cn/InsertDeleteGetrandomO1DuplicatesAllowed.java)
+
+[1207. 独一无二的出现次数](./src/com/mfcookie/leetcode/editor/cn/UniqueNumberOfOccurrences.java)
 
 [1365. 有多少小于当前数字的数字](./src/com/mfcookie/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 
