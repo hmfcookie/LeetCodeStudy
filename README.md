@@ -98,6 +98,8 @@
 
 [941. 有效的山脉数组](./src/com/mfcookie/leetcode/editor/cn/ValidMountainArray.java)
 
+[973. 最接近原点的 K 个点](./src/com/mfcookie/leetcode/editor/cn/KClosestPointsToOrigin.java)
+
 [1207. 独一无二的出现次数](./src/com/mfcookie/leetcode/editor/cn/UniqueNumberOfOccurrences.java)
 
 [1365. 有多少小于当前数字的数字](./src/com/mfcookie/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
