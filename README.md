@@ -6,6 +6,8 @@
 
 [26. 删除数组中的重复项](./src/com/mfcookie/leetcode/editor/cn/RemoveDuplicatesFromSortedList.java)
 
+[31. 下一个排列](./src/com/mfcookie/leetcode/editor/cn/NextPermutation.java)
+
 [57. 插入区间](./src/com/mfcookie/leetcode/editor/cn/InsertInterval.java)
 
 [66. 加一](./src/com/mfcookie/leetcode/editor/cn/PlusOne.java)
