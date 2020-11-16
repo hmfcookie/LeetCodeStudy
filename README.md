@@ -94,6 +94,8 @@
 
 [268. 丢失的数字](./src/com/mfcookie/leetcode/editor/cn/MissingNumber.java)
 
+[328. 奇偶链表](./src/com/mfcookie/leetcode/editor/cn/OddEvenLinkedList.java)
+
 [349. 两个数组的交集](./src/com/mfcookie/leetcode/editor/cn/IntersectionOfTwoArrays.java)
 
 [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](./src/com/mfcookie/leetcode/editor/cn/InsertDeleteGetrandomO1DuplicatesAllowed.java)
