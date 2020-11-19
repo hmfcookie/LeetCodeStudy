@@ -96,6 +96,8 @@
 
 [268. 丢失的数字](./src/com/mfcookie/leetcode/editor/cn/MissingNumber.java)
 
+[283. 移动零](./src/com/mfcookie/leetcode/editor/cn/MoveZeroes.java)
+
 [328. 奇偶链表](./src/com/mfcookie/leetcode/editor/cn/OddEvenLinkedList.java)
 
 [349. 两个数组的交集](./src/com/mfcookie/leetcode/editor/cn/IntersectionOfTwoArrays.java)
