@@ -52,6 +52,8 @@
 
 [147. 对链表进行插入排序](./src/com/mfcookie/leetcode/editor/cn/InsertionSortList.java)
 
+[148. 排序链表](./src/com/mfcookie/leetcode/editor/cn/SortList.java)
+
 [167. 两数之和 II - 输入有序数组](./src/com/mfcookie/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
 
 [168. Excel表列名称](./src/com/mfcookie/leetcode/editor/cn/ExcelSheetColumnTitle.java)
