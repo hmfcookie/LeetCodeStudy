@@ -92,6 +92,8 @@
 
 [237. 删除链表中的节点](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
 
+[242. 有效的字母异位词](./src/com/mfcookie/leetcode/editor/cn/ValidAnagram.java)
+
 [257. 二叉树的所有路径](./src/com/mfcookie/leetcode/editor/cn/BinaryTreePaths.java)
 
 [258. 各位相加](./src/com/mfcookie/leetcode/editor/cn/AddDigits.java)
