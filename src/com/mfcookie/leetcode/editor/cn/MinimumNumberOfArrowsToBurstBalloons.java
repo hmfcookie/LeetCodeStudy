@@ -59,6 +59,7 @@ package com.mfcookie.leetcode.editor.cn;
 
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class MinimumNumberOfArrowsToBurstBalloons {
     public static void main(String[] args) {
@@ -74,12 +75,9 @@ public class MinimumNumberOfArrowsToBurstBalloons {
             if (points.length == 0) {
                 return 0;
             }
-            Arrays.sort(points, (o1, o2) -> {
-                if (o1[1] > o2[1]) {
-                    return 1;
-                } else if (o1[1] < o2[1]) {
-                    return -1;
-                } else {
+            Arrays.sort(points, new Comparator<int[]>() {
+                @Override
+                public int compare(int[] o1, int[] o2) {
                     return 0;
                 }
             });
