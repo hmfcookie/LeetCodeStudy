@@ -112,6 +112,8 @@
 
 [973. 最接近原点的 K 个点](./src/com/mfcookie/leetcode/editor/cn/KClosestPointsToOrigin.java)
 
+[976. 三角形的最大周长](./src/com/mfcookie/leetcode/editor/cn/LargestPerimeterTriangle.java)
+
 [1030. 距离顺序排列矩阵单元格](./src/com/mfcookie/leetcode/editor/cn/MatrixCellsInDistanceOrder.java)
 
 [1122. 数组的相对排序](./src/com/mfcookie/leetcode/editor/cn/RelativeSortArray.java)
