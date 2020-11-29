@@ -50,6 +50,10 @@
 
 [144. 二叉树的前序遍历](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
 
+[147. 对链表进行插入排序](./src/com/mfcookie/leetcode/editor/cn/InsertionSortList.java)
+
+[148. 排序链表](./src/com/mfcookie/leetcode/editor/cn/SortList.java)
+
 [167. 两数之和 II - 输入有序数组](./src/com/mfcookie/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.java)
 
 [168. Excel表列名称](./src/com/mfcookie/leetcode/editor/cn/ExcelSheetColumnTitle.java)
@@ -78,6 +82,8 @@
 
 [226. 翻转二叉树](./src/com/mfcookie/leetcode/editor/cn/InvertBinaryTree.java)
 
+[228. 汇总区间](./src/com/mfcookie/leetcode/editor/cn/SummaryRanges.java)
+
 [231. 2的幂](./src/com/mfcookie/leetcode/editor/cn/PowerOfTwo.java)
 
 [232. 用栈实现队列](./src/com/mfcookie/leetcode/editor/cn/ImplementQueueUsingStacks.java)
@@ -87,6 +93,8 @@
 [235. 二叉搜索树的最近公共祖先](./src/com/mfcookie/leetcode/editor/cn/LowestCommonAncestorOfABinarySearchTree.java)
 
 [237. 删除链表中的节点](./src/com/mfcookie/leetcode/editor/cn/DeleteNodeInALinkedList.java)
+
+[242. 有效的字母异位词](./src/com/mfcookie/leetcode/editor/cn/ValidAnagram.java)
 
 [257. 二叉树的所有路径](./src/com/mfcookie/leetcode/editor/cn/BinaryTreePaths.java)
 
@@ -106,6 +114,8 @@
 
 [406. 根据身高重建队列](./src/com/mfcookie/leetcode/editor/cn/QueueReconstructionByHeight.java)
 
+[452. 用最少数量的箭引爆气球](./src/com/mfcookie/leetcode/editor/cn/MinimumNumberOfArrowsToBurstBalloons.java)
+
 [922. 按奇偶排序数组 II](./src/com/mfcookie/leetcode/editor/cn/SortArrayByParityIi.java)
 
 [941. 有效的山脉数组](./src/com/mfcookie/leetcode/editor/cn/ValidMountainArray.java)
@@ -119,6 +129,8 @@
 [1122. 数组的相对排序](./src/com/mfcookie/leetcode/editor/cn/RelativeSortArray.java)
 
 [1207. 独一无二的出现次数](./src/com/mfcookie/leetcode/editor/cn/UniqueNumberOfOccurrences.java)
+
+[1356. 根据数字二进制下 1 的数目排序](./src/com/mfcookie/leetcode/editor/cn/SortIntegersByTheNumberOf1Bits.java)
 
 [1365. 有多少小于当前数字的数字](./src/com/mfcookie/leetcode/editor/cn/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 
