@@ -1,6 +1,6 @@
 # LeetCodeStudy
 
-记录`leetcode`的刷题
+记录`leetcode` 
 
 [1.两数之和](./src/com/mfcookie/leetcode/editor/cn/TwoSum.java)
 
